@@ -75,6 +75,11 @@ EXP 2B
 
 ![Screenshot 2025-04-07 133040](https://github.com/user-attachments/assets/8a1418db-4348-421f-b3b6-af5d39b8d9d8)
 
+**Truthtable**
+
+![image](https://github.com/user-attachments/assets/db0496dc-d463-464c-9d42-d4c473ea3f56)
+
+![image](https://github.com/user-attachments/assets/0f13d77d-7d40-44fd-b37f-98b12cd491f9)
 
 **Timing Diagram**
 
